@@ -10,9 +10,9 @@
 
 (function(){
 	var t=document.getElementsByClassName("col-lg-6");
-	var btn="<button class=\"btn btn-default\" id=\"cp\">复制</button>";
+	var btn="<button class=\"cp btn btn-default\">复制</button>";
 	for(var i=0;i<t.length;i++)t[i].childNodes[1].innerHTML+=btn;
-	$("#cp").click(function(){
+	$(".cp").click(function(){
 		var t0=this;
 		var text=t0.parentNode.parentNode.childNodes[3].children[0].innerText;
         console.log(text);
