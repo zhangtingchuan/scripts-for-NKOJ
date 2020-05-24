@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         noblink
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      0.1
 // @description  取消缤纷用户炫彩功能
 // @author       ztc.
-// @match        http://oi.nks.edu.cn/*
+// @match        http://oi.nks.edu.cn/*/Submission*
 // @grant        none
 // ==/UserScript==
 
