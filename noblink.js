@@ -9,5 +9,5 @@
 // ==/UserScript==
 
 (function(){
-	for(i=0; i<100; i++)window.clearInterval(i);
+	for(var i=0; i<100; i++)window.clearInterval(i);
 })();
