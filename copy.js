@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  添加样例复制按钮
 // @author       ztc.
-// @match        http://oi.nks.edu.cn/*/Problem/Details/*
+// @match        http://oi.nks.edu.cn/*/Problem/*
 // @grant        none
 // ==/UserScript==
 
